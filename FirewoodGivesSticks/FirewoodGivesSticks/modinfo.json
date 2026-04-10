@@ -7,7 +7,7 @@
         "Kuroshiro"
     ],
     "description": "Makes it so firewood can give you sticks",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "dependencies": {
         "game": "1.21.6"
     }

@@ -3,13 +3,13 @@
   "ingredients": {
     "T": {
       "type": "item",
-      "code": "axe-*",
+      "code": "saw-*",
       "isTool": true
     },
     "F": {
       "type": "item",
       "code": "game:firewood",
-      "quantity": 4
+      "quantity": 1
     }
 
   },
@@ -17,6 +17,8 @@
   "height": 2,
   "shapeless": true,
   "output": {
-    "type":  "item", "code":  "game:stick", "quantity":  2
+    "type": "item",
+    "code": "game:stick",
+    "quantity": 1
   }
 }
