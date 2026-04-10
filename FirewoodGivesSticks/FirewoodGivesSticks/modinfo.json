@@ -1,0 +1,14 @@
+{
+    "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
+    "type": "Content",
+    "modid": "firewoodgivessticks",
+    "name": "Firewood Gives Sticks",
+    "authors": [
+        "Kuroshiro"
+    ],
+    "description": "Makes it so firewood can give you sticks",
+    "version": "1.0.1",
+    "dependencies": {
+        "game": "1.21.6"
+    }
+}
